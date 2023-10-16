@@ -1,2 +1,2 @@
-##**Hola, soy Katja Oksana.**
-###🌱 Actualmente trabajo como desarrolladora.`rgb(9, 105, 218)`
+## **Hola, soy Katja Oksana.**
+### 🌱 Actualmente trabajo como desarrolladora.
