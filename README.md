@@ -1,2 +1,2 @@
 ## **Hola, soy Katja Oksana.**
-### 🌱 Actualmente trabajo como desarrolladora.
+### :woman_technologist: Actualmente trabajo como desarrolladora.
