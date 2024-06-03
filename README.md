@@ -6,7 +6,7 @@
 
 ### Acerca de Mí
 
-Soy una desarrolladora de software con un año de experiencia profesional trabajando con **XML** y **SQL**, y un año y medio de experiencia en proyectos personales utilizando **Python**. Mi formación académica en **Matemática Educativa** en la Universidad Autónoma de San Luis Potosí me ha proporcionado una sólida base en matemáticas, lo cual aplico en mi trabajo diario para resolver problemas complejos y optimizar soluciones.
+Soy una desarrolladora de software con 1+ años de experiencia profesional trabajando con **XML** y **SQL**, y 2+ años de experiencia en proyectos personales utilizando **Python**. Mi formación académica en **Matemática Educativa** en la Universidad Autónoma de San Luis Potosí me ha proporcionado una sólida base en matemáticas, lo cual aplico en mi trabajo diario para resolver problemas complejos y optimizar soluciones.
 
 ### Experiencia Profesional
 
