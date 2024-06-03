@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Katja Oksana]
+# 👋 Hola, soy Katja Oksana
 
 ### Desarrolladora de Software :woman_technologist:
 
