@@ -1,39 +1,39 @@
-# 👋 Hola, soy Katja Oksana
+# 👋 Hi, I'm Katja Oksana
 
-### Desarrolladora de Software :woman_technologist:
+### Software Developer :woman_technologist:
 
 ---
 
-### Acerca de Mí
+### About Me
 
-Soy una desarrolladora de software con 1+ años de experiencia profesional trabajando con **XML** y **SQL**, y 2+ años de experiencia en proyectos personales utilizando **Python**. Mi formación académica en **Matemática Educativa** en la Universidad Autónoma de San Luis Potosí me ha proporcionado una sólida base en matemáticas, lo cual aplico en mi trabajo diario para resolver problemas complejos y optimizar soluciones.
+I am a software developer with 1+ years of professional experience working with **XML** and **SQL**, and 2+ years of experience in personal projects using **Python**. My academic background in Mathematics Education from the Universidad Autónoma de San Luis Potosí has provided me with a strong foundation in mathematics, which I apply in my daily work to solve complex problems and optimize solutions.
 
-### Experiencia Profesional
+### Professional Experience
 
-- **Desarrolladora de Software**
-  - Experiencia en XML y SQL
-  - Trabajo en la integración y manipulación de datos
+- **Software Developer**
+  - Experience in XML and SQL
+  - Work in data integration and manipulation
 
-### Proyectos Personales
+### Personal Projects
 
-- **Desarrolladora Python**
-  - Proyectos que incluyen desarrollo e implementación de algoritmos en grafos.
+- **Python Developer**
+  - Projects including the development and implementation of graph algorithms
 
-### Educación
+### Education
 
-- **Licenciatura en Matemática Educativa**
+- **Bachelor's Degree in Mathematics Education**
   - **Universidad Autónoma de San Luis Potosí**
-  - Enfoque en matemáticas aplicadas.
-  - Tesis: https://drive.google.com/drive/folders/1lCAzi53tT-S8VyYlU_GfWp-6zevHS8q4?usp=drive_link
+  - Focus on applied mathematics.
+  - Thesis: https://drive.google.com/drive/folders/1lCAzi53tT-S8VyYlU_GfWp-6zevHS8q4?usp=drive_link
 
-### Habilidades
+### Skills
 
-- **Lenguajes de Programación:** Python, SQL, XML
-- **Tecnologías y Herramientas:** Git, GitHub, Jupyter Notebooks, Pandas
-- **Otras Habilidades:** Resolución de problemas, detección y corrección de errores, aprendizaje autodidacta
+- **Programming Languages:** Python, SQL, XML
+- **Technologies and Tools:** Git, GitHub, Jupyter Notebooks, Pandas
+- **Other Skills:** Problem-solving, debugging, self-learning
 
-### Sobre Mí
+### About Me
 
-- Me apasiona resolver problemas y encontrar errores en el código.
-- Siempre estoy en busca de aprender cosas nuevas y mejorar mis habilidades.
-- Soy autodidacta y disfruto mucho de adquirir nuevos conocimientos y aplicarlos en mis proyectos.
+- I am passionate about solving problems and finding bugs in code.
+- I am always looking to learn new things and improve my skills.
+- I am self-taught and enjoy acquiring new knowledge and applying it to my projects.
