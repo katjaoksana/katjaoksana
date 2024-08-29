@@ -6,12 +6,12 @@
 
 ### About Me
 
-I am a software developer with 1+ years of professional experience working with **XML** and **SQL**, and 2+ years of experience in personal projects using **Python**. My academic background in Mathematics Education from the Universidad Autónoma de San Luis Potosí has provided me with a strong foundation in mathematics, which I apply in my daily work to solve complex problems and optimize solutions.
+I am a software developer with 1+ years of professional experience working with **XML**, **C** and **SQL**, and 2+ years of experience in personal projects using **Python**. My academic background in Mathematics Education from the Universidad Autónoma de San Luis Potosí has provided me with a strong foundation in mathematics, which I apply in my daily work to solve complex problems and optimize solutions.
 
 ### Professional Experience
 
 - **Software Developer**
-  - Experience in XML and SQL
+  - Experience in XML, C and SQL
   - Work in data integration and manipulation
 
 ### Personal Projects
