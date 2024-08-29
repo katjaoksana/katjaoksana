@@ -24,7 +24,7 @@ I am a software developer with 1+ years of professional experience working with 
 - **Bachelor's Degree in Mathematics Education**
   - **Universidad Autónoma de San Luis Potosí**
   - Focus on applied mathematics.
-  - Thesis: (https://katjaoksana.wordpress.com/community-detection-in-networks/)
+  - Thesis: https://katjaoksana.wordpress.com/community-detection-in-networks/
 
 ### Skills
 
