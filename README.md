@@ -28,8 +28,8 @@ I am a software developer with 1+ years of professional experience working with 
 
 ### Skills
 
-- **Programming Languages:** Python, SQL, XML
-- **Technologies and Tools:** Git, GitHub, Jupyter Notebooks, Pandas
+- **Programming Languages:** Python, XML, C, C++, SQL, NoSQL
+- **Technologies and Tools:** GitHub, Visual Studio Code, Spyder, Jupyter Notebooks, Pandas
 - **Other Skills:** Problem-solving, debugging, self-learning
 
 ### About Me
